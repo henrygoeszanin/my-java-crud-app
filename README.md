@@ -44,6 +44,8 @@ my-java-crud-app
 - Spring Boot
 - Spring Data JPA
 - Maven
+- JUnit
+- Mockito
 
 ## Setup Instructions
 
